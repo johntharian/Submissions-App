@@ -1,0 +1,16 @@
+authorization - pending
+Submission - Based on the type of submission mentioned above, submissions should be accepted. API should validate it. - pending
+
+        
+finished
+    Create hackathons
+    Listing of hackathons
+    User Creation
+    Get all Users
+    Register to a hackathon
+    Make Submissions
+    Submissions should contain the following information
+    A name for the submission
+    Summary of the submission
+    Users should be able to list the hackathons they are enrolled to
+    Users should be able to view their submissions in the hackathon they were enrolled in
